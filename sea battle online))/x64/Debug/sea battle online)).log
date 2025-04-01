@@ -1,0 +1,30 @@
+﻿  Main.cpp
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\bot.h(8,15): warning C4552: '%': result of expression not used
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\network.h(80,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\network.h(116,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(58,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(67,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(324,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(343,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(343,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(811,10): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(852,11): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\Visual.h(166,10): warning C4101: 'temp': unreferenced local variable
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\Main.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\Main.cpp(7,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Visual.cpp
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\bot.h(8,15): warning C4552: '%': result of expression not used
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\network.h(80,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\network.h(116,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(58,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(67,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(324,25): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(343,40): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(343,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(811,10): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(852,11): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\Visual.h(166,10): warning C4101: 'temp': unreferenced local variable
+  Generating Code...
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\MainLogics.h(518,1): warning C4715: 'MainLogics::CreateGameWBot': not all control paths return a value
+C:\Users\Home\source\repos\sea battle online))\sea battle online))\bot.h(174,1): warning C4715: 'Bot::MakeMove': not all control paths return a value
+  sea battle online)).vcxproj -> C:\Users\Home\source\repos\sea battle online))\x64\Debug\sea battle online)).exe
